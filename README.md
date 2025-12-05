@@ -51,13 +51,13 @@ Scripts and workflows for:
 ---
 
 ## 🎓 Certifications
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified Cloud Practitioner  
+- [AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/60e6fb0d98694b44af4e184b3a84e1e4)  
+- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/7b8b61878091467db57c213b03544514)  
 
 ---
 
 ## 📄 Resume
-You can view my full resume [here](#) or download the PDF version from this repository.
+You can view and download my full resume [here](https://github.com/aliceekane/aliceekane-portfolio/blob/main/Alice_Resume.pdf).
 
 ---
 
