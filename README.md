@@ -5,7 +5,7 @@ Senior AWS Infrastructure Engineer with 6+ years of experience designing, automa
 
 - 📍 Rockville, MD  
 - 📧 aliceekane04@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aliceekane) | [GitHub](https://github.com/aliceekane)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alice-ekane/) | [GitHub](https://github.com/aliceekane)
 
 ---
 
