@@ -2,6 +2,7 @@
 
 ## 🌐 About Me
 Senior AWS Infrastructure Engineer with 6+ years of experience designing, automating, and securing enterprise-scale cloud environments. Skilled in Terraform, CI/CD pipeline automation, and cloud security governance. Passionate about building scalable architectures and driving operational excellence.
+**US Citizen — no sponsorship required.**
 
 - 📍 Rockville, MD  
 - 📧 aliceekane04@gmail.com  
