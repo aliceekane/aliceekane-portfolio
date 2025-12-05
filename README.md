@@ -9,35 +9,12 @@ Senior AWS Infrastructure Engineer with 6+ years of experience designing, automa
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. **Terraform AWS Modules**
-Reusable modules for provisioning secure AWS environments:
-- VPC with subnets, NAT, and routing
-- IAM roles with least privilege
-- ECS/Fargate cluster setup
-
-👉 [View Repository](#)
-
----
-
-### 2. **CI/CD Pipeline Automation**
-Examples of GitHub Actions and Jenkins pipelines:
-- Automated deployments to Lambda and ECS
-- Integrated security scans and compliance checks
-- Reduced deployment errors by 40%
-
-👉 [View Repository](#)
-
----
-
-### 3. **Cloud Security Automation**
-Scripts and workflows for:
-- IAM hardening
-- GuardDuty alert automation
-- AWS Config rules for compliance
-
-👉 [View Repository](#)
+## 🚀 Career Highlights
+- Designed and automated AWS infrastructure with Terraform for enterprise-scale deployments.  
+- Built CI/CD pipelines with Jenkins and GitHub Actions, reducing deployment errors by 40%.  
+- Implemented IAM hardening and GuardDuty automation to strengthen cloud security posture.  
+- Integrated CloudWatch monitoring and cost optimization strategies to improve efficiency and governance.  
+- Mentored junior engineers in AWS automation and DevOps best practices.  
 
 ---
 
@@ -62,6 +39,6 @@ You can view and download my full resume [here](https://github.com/aliceekane/al
 ---
 
 ## ✨ How to Use This Portfolio
-- Explore pinned repositories for detailed project examples.  
-- Check documentation in each repo for setup instructions and outcomes.  
+- Review career highlights for measurable achievements and impact.  
+- Explore skills and certifications for technical expertise.  
 - Connect with me on LinkedIn for collaboration or opportunities.  
