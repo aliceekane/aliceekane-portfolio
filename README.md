@@ -1,12 +1,13 @@
 # Alice Blanche Ekane
 
 ## 🌐 About Me
-Senior AWS Infrastructure Engineer with 6+ years of experience designing, automating, and securing enterprise-scale cloud environments. Skilled in Terraform, CI/CD pipeline automation, and cloud security governance. Passionate about building scalable architectures and driving operational excellence.
+Senior AWS Infrastructure Engineer with 6+ years of experience designing, automating, and securing enterprise-scale cloud environments. Skilled in Terraform, CI/CD pipeline automation, and cloud security governance. Passionate about building scalable architectures and driving operational excellence.  
 **US Citizen — no sponsorship required.**
 
 - 📍 Rockville, MD  
-- 📧 aliceekane04@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alice-ekane/) | [GitHub](https://github.com/aliceekane)
+- 📧 [![Email](https://img.shields.io/badge/Email-aliceekane04%40gmail.com-red?style=flat&logo=gmail)](mailto:aliceekane04@gmail.com)  
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice%20Ekane-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alice-ekane/)  
+- 💻 [![GitHub](https://img.shields.io/badge/GitHub-aliceekane--portfolio-black?style=flat&logo=github)](https://github.com/aliceekane)  
 
 ---
 
@@ -20,11 +21,13 @@ Senior AWS Infrastructure Engineer with 6+ years of experience designing, automa
 ---
 
 ## 📊 Skills Snapshot
-- **Cloud Platforms:** AWS (EC2, VPC, S3, IAM, Lambda, CloudWatch, CloudTrail, Config, Security Hub)  
-- **IaC & Automation:** Terraform, CloudFormation, Bash, PowerShell  
-- **DevOps & CI/CD:** Jenkins, GitHub Actions, GitLab, Docker, Kubernetes  
-- **Security & Compliance:** SIEM Monitoring, Vulnerability Management, Threat Detection  
-- **Languages:** Python, Bash, PowerShell, SQL  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&style=flat)  
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform&style=flat)  
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins&style=flat)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?logo=githubactions&style=flat)  
+![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&style=flat)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&style=flat)  
+![Security](https://img.shields.io/badge/Security-Compliance-green?logo=security&style=flat)  
 
 ---
 
