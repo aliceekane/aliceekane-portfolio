@@ -1,11 +1,11 @@
 # Alice Blanche Ekane
 
-🌐 ABOUT ME
-Senior AWS Infrastructure Engineer / Site Reliability Engineer
-6+ years architecting, automating, and securing enterprise-scale cloud environments.
-Multi-cloud exposure (AWS + Azure), IaC (Terraform, Ansible), CI/CD (Jenkins, GitHub Actions),
-and AI/ML integration (LLMs, anomaly detection, OpenAI SDK).
-US Citizen — no sponsorship required.
+### 🌐 ABOUT ME
+- Senior AWS Infrastructure Engineer / Site Reliability Engineer
+- 6+ years architecting, automating, and securing enterprise-scale cloud environments.
+- Multi-cloud exposure (AWS + Azure), IaC (Terraform, Ansible), CI/CD (Jenkins, GitHub Actions),
+- and AI/ML integration (LLMs, anomaly detection, OpenAI SDK).
+- US Citizen — no sponsorship required.
 
 📧 Contact Me
 
