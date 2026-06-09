@@ -80,8 +80,8 @@ flowchart TD
     G --> H[Operational Excellence: Cost Optimization, Uptime 99.9%]
 
 ```
-✨ HOW TO USE THIS PORTFOLIO
-• Review career highlights for measurable achievements  
-• Explore skills and certifications for technical expertise  
-• Check portfolio projects for hands-on cloud automation demos  
-• Connect on LinkedIn for collaboration or opportunities
+### ✨ HOW TO USE THIS PORTFOLIO
+- Review career highlights for measurable achievements  
+- Explore skills and certifications for technical expertise  
+- Check portfolio projects for hands-on cloud automation demos  
+- Connect on LinkedIn for collaboration or opportunities
