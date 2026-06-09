@@ -37,16 +37,13 @@ US Citizen — no sponsorship required.
 ![Security](https://img.shields.io/badge/Security-Compliance-green?logo=security&style=flat)
 
 ----------------------------------------------
+📄 RESUME & CERTIFICATIONS
 
-🎓 CERTIFICATIONS
-• AWS Certified Solutions Architect – Associate  
-• AWS Certified Cloud Practitioner  
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat&logo=readthedocs)](https://github.com/aliceekane/aliceekane-portfolio/blob/main/Alice_Resume.pdf)
 
-----------------------------------------------
-
-📄 RESUME
-Recruiter-optimized resume available here:
-github.com/aliceekane/aliceekane-portfolio/blob/main/Alice_Resume.pdf
+📜 Official AWS Certificates:
+- [AWS Certified Solutions Architect – Associate](https://github.com/aliceekane/aliceekane-portfolio/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
+- [AWS Certified Cloud Practitioner](https://github.com/aliceekane/aliceekane-portfolio/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
 ----------------------------------------------
 
