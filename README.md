@@ -42,21 +42,45 @@ US Citizen — no sponsorship required.
 - Enhanced anomaly detection efficiency by 26% using LLMs + OpenAI SDK
 - Mentored junior engineers in AWS automation and DevOps best practices
 
-----------------------------------------------
-
-
-----------------------------------------------
-
 🛠 PORTFOLIO PROJECTS
-
 • Cloud Cost Optimization Dashboard (Django + Pandas visualization)  
 • Hybrid Cloud CI/CD Pipelines (Terraform + GitHub Actions)  
-• Anomaly Detection with LLMs (OpenAI SDK integration)  
+• Anomaly Detection with LLMs (OpenAI SDK integration)
+
+### 🖼 Textual Diagram (ASCII style)
++-------------------+        +-------------------+
+|   Developer       |        |   Cloud Platform  |
+|   (Code Commit)   |        |   AWS / Azure     |
++---------+---------+        +---------+---------+
+          |                            |
+          v                            v
++-------------------+        +-------------------+
+|   CI/CD Pipeline  | -----> |   Infrastructure  |
+|   (Jenkins/GitHub)|        |   (Terraform/Ansible) |
++---------+---------+        +---------+---------+
+          |                            |
+          v                            v
++-------------------+        +-------------------+
+|   Monitoring      |        |   Security        |
+|   (CloudWatch)    |        |   IAM / GuardDuty |
++-------------------+        +-------------------+
 
 ----------------------------------------------
+```
+### 🖇 Mermaid Diagram (Cloud Workflow)
+```mermaid
+flowchart TD
+    A[Developer Commit] --> B[CI/CD Pipeline: Jenkins/GitHub Actions]
+    B --> C[Infrastructure Provisioning: Terraform/Ansible]
+    C --> D[Cloud Platform: AWS EC2, VPC, S3]
+    C --> E[Azure Services: VMs, Blob Storage, AKS]
+    D --> F[Monitoring: CloudWatch, Log Insights]
+    E --> F
+    F --> G[Security: IAM, GuardDuty, KMS]
+    G --> H[Operational Excellence: Cost Optimization, Uptime 99.9%]
 
+```
 ✨ HOW TO USE THIS PORTFOLIO
-
 • Review career highlights for measurable achievements  
 • Explore skills and certifications for technical expertise  
 • Check portfolio projects for hands-on cloud automation demos  
