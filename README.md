@@ -15,7 +15,7 @@ US Citizen — no sponsorship required.
 
 ----------------------------------------------
 
-🚀 CAREER HIGHLIGHTS
+###🚀 CAREER HIGHLIGHTS
 
 • Reduced annual cloud spend by 18% through AWS resource optimization
 • Improved healthcare application uptime to 99.9% with hybrid networking
