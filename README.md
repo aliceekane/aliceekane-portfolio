@@ -13,17 +13,6 @@ US Citizen — no sponsorship required.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice%20Ekane-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alice-ekane/)  
 [![GitHub](https://img.shields.io/badge/GitHub-aliceekane--portfolio-black?style=flat&logo=github)](https://github.com/aliceekane)  
 
-```
-
-###🚀 CAREER HIGHLIGHTS
-- Reduced annual cloud spend by 18% through AWS resource optimization
-- Improved healthcare application uptime to 99.9% with hybrid networking
-- Accelerated deployments by 35% across 50+ environments (Terraform + Ansible)
-- Enhanced anomaly detection efficiency by 26% using LLMs + OpenAI SDK
-- Mentored junior engineers in AWS automation and DevOps best practices
-
-----------------------------------------------
-
 📊 SKILLS SNAPSHOT
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&style=flat)
@@ -35,6 +24,15 @@ US Citizen — no sponsorship required.
 ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&style=flat)
 ![Security](https://img.shields.io/badge/Security-Compliance-green?logo=security&style=flat)
+
+```
+
+###🚀 CAREER HIGHLIGHTS
+- Reduced annual cloud spend by 18% through AWS resource optimization
+- Improved healthcare application uptime to 99.9% with hybrid networking
+- Accelerated deployments by 35% across 50+ environments (Terraform + Ansible)
+- Enhanced anomaly detection efficiency by 26% using LLMs + OpenAI SDK
+- Mentored junior engineers in AWS automation and DevOps best practices
 
 ----------------------------------------------
 📄 RESUME & CERTIFICATIONS
