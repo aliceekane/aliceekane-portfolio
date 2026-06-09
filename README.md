@@ -13,15 +13,14 @@ US Citizen — no sponsorship required.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice%20Ekane-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alice-ekane/)  
 [![GitHub](https://img.shields.io/badge/GitHub-aliceekane--portfolio-black?style=flat&logo=github)](https://github.com/aliceekane)  
 
-----------------------------------------------
+```
 
 ###🚀 CAREER HIGHLIGHTS
-
-• Reduced annual cloud spend by 18% through AWS resource optimization
-• Improved healthcare application uptime to 99.9% with hybrid networking
-• Accelerated deployments by 35% across 50+ environments (Terraform + Ansible)
-• Enhanced anomaly detection efficiency by 26% using LLMs + OpenAI SDK
-• Mentored junior engineers in AWS automation and DevOps best practices
+- Reduced annual cloud spend by 18% through AWS resource optimization
+- Improved healthcare application uptime to 99.9% with hybrid networking
+- Accelerated deployments by 35% across 50+ environments (Terraform + Ansible)
+- Enhanced anomaly detection efficiency by 26% using LLMs + OpenAI SDK
+- Mentored junior engineers in AWS automation and DevOps best practices
 
 ----------------------------------------------
 
