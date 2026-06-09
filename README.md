@@ -25,6 +25,14 @@ US Citizen — no sponsorship required.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&style=flat)
 ![Security](https://img.shields.io/badge/Security-Compliance-green?logo=security&style=flat)
 
+📄 RESUME & CERTIFICATIONS
+
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat&logo=readthedocs)](https://github.com/aliceekane/aliceekane-portfolio/blob/main/Alice_Resume.pdf)
+
+📜 Official AWS Certificates:
+- [AWS Certified Solutions Architect – Associate](https://github.com/aliceekane/aliceekane-portfolio/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
+- [AWS Certified Cloud Practitioner](https://github.com/aliceekane/aliceekane-portfolio/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
+
 ```
 
 ###🚀 CAREER HIGHLIGHTS
@@ -35,13 +43,7 @@ US Citizen — no sponsorship required.
 - Mentored junior engineers in AWS automation and DevOps best practices
 
 ----------------------------------------------
-📄 RESUME & CERTIFICATIONS
 
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat&logo=readthedocs)](https://github.com/aliceekane/aliceekane-portfolio/blob/main/Alice_Resume.pdf)
-
-📜 Official AWS Certificates:
-- [AWS Certified Solutions Architect – Associate](https://github.com/aliceekane/aliceekane-portfolio/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
-- [AWS Certified Cloud Practitioner](https://github.com/aliceekane/aliceekane-portfolio/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
 ----------------------------------------------
 
