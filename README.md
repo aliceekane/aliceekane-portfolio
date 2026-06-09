@@ -48,6 +48,7 @@ US Citizen — no sponsorship required.
 ----------------------------------------------
 
 🛠 PORTFOLIO PROJECTS
+
 • Cloud Cost Optimization Dashboard (Django + Pandas visualization)  
 • Hybrid Cloud CI/CD Pipelines (Terraform + GitHub Actions)  
 • Anomaly Detection with LLMs (OpenAI SDK integration)  
