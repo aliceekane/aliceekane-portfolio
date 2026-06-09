@@ -1,6 +1,4 @@
-##############################################
 # Alice Blanche Ekane
-##############################################
 
 🌐 ABOUT ME
 Senior AWS Infrastructure Engineer / Site Reliability Engineer
