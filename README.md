@@ -34,7 +34,6 @@ US Citizen — no sponsorship required.
 - [AWS Certified Cloud Practitioner](https://github.com/aliceekane/aliceekane-portfolio/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
 ```
-
 ###🚀 CAREER HIGHLIGHTS
 - Reduced annual cloud spend by 18% through AWS resource optimization
 - Improved healthcare application uptime to 99.9% with hybrid networking
@@ -43,10 +42,11 @@ US Citizen — no sponsorship required.
 - Mentored junior engineers in AWS automation and DevOps best practices
 
 🛠 PORTFOLIO PROJECTS
-• Cloud Cost Optimization Dashboard (Django + Pandas visualization)  
-• Hybrid Cloud CI/CD Pipelines (Terraform + GitHub Actions)  
-• Anomaly Detection with LLMs (OpenAI SDK integration)
+- Cloud Cost Optimization Dashboard (Django + Pandas visualization)  
+- Hybrid Cloud CI/CD Pipelines (Terraform + GitHub Actions)  
+- Anomaly Detection with LLMs (OpenAI SDK integration)
 
+```
 ### 🖼 Textual Diagram (ASCII style)
 +-------------------+        +-------------------+
 |   Developer       |        |   Cloud Platform  |
