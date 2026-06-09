@@ -7,10 +7,11 @@ Multi-cloud exposure (AWS + Azure), IaC (Terraform, Ansible), CI/CD (Jenkins, Gi
 and AI/ML integration (LLMs, anomaly detection, OpenAI SDK).
 US Citizen — no sponsorship required.
 
-📍 Rockville, MD
-📧 aliceekane04@gmail.com
-🔗 LinkedIn: linkedin.com/in/alice-ekane
-💻 GitHub: github.com/aliceekane
+📧 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-aliceekane04%40gmail.com-red?style=flat&logo=gmail)](mailto:aliceekane04@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice%20Ekane-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alice-ekane/)  
+[![GitHub](https://img.shields.io/badge/GitHub-aliceekane--portfolio-black?style=flat&logo=github)](https://github.com/aliceekane)  
 
 ----------------------------------------------
 
