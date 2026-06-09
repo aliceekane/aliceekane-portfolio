@@ -16,6 +16,7 @@ US Citizen — no sponsorship required.
 ----------------------------------------------
 
 🚀 CAREER HIGHLIGHTS
+
 • Reduced annual cloud spend by 18% through AWS resource optimization
 • Improved healthcare application uptime to 99.9% with hybrid networking
 • Accelerated deployments by 35% across 50+ environments (Terraform + Ansible)
@@ -56,6 +57,7 @@ US Citizen — no sponsorship required.
 ----------------------------------------------
 
 ✨ HOW TO USE THIS PORTFOLIO
+
 • Review career highlights for measurable achievements  
 • Explore skills and certifications for technical expertise  
 • Check portfolio projects for hands-on cloud automation demos  
