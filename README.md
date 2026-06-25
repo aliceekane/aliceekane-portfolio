@@ -79,6 +79,16 @@ flowchart TD
     F --> G[Security: IAM, GuardDuty, KMS]
     G --> H[Operational Excellence: Cost Optimization, Uptime 99.9%]
 
+    %% Assigning different colors to each box
+    style A fill:#FF9999,stroke:#333,stroke-width:2px
+    style B fill:#FFCC99,stroke:#333,stroke-width:2px
+    style C fill:#FFFF99,stroke:#333,stroke-width:2px
+    style D fill:#CCFF99,stroke:#333,stroke-width:2px
+    style E fill:#99FFCC,stroke:#333,stroke-width:2px
+    style F fill:#99CCFF,stroke:#333,stroke-width:2px
+    style G fill:#CC99FF,stroke:#333,stroke-width:2px
+    style H fill:#FF99CC,stroke:#333,stroke-width:2px
+
 ```
 ### ✨ HOW TO USE THIS PORTFOLIO
 - Review career highlights for measurable achievements  
