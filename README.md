@@ -70,7 +70,10 @@
 ### 🖇 Mermaid Diagram (Cloud Workflow)
 ```mermaid
 flowchart TD
-    A[Developer Commit] --> B[CI/CD Pipeline: Jenkins/GitHub Actions]
+    A[Developer Commit] -->
+B[CI/CD Pipeline:
+Jenkins/
+GitHub Actions]
     B --> C[Infrastructure Provisioning:
 Terraform/Ansible]
     C --> D[Cloud Platform:
