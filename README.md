@@ -70,14 +70,14 @@
 ### 🖇 Mermaid Diagram (Cloud Workflow)
 ```mermaid
 flowchart TD
-    A[Developer Commit] --> B[CI/CD Pipeline: Jenkins/GitHub Actions]
-    B --> C[Infrastructure Provisioning:Terraform/Ansible]
-    C --> D[Cloud Platform:AWS EC2,VPC,S3]
-    C --> E[Azure Services: VMs,Blob Storage,AKS]
-    D --> F[Monitoring: CloudWatch,Log Insights]
+    A[Developer Commit]:::bigbox --> B[CI/CD Pipeline: Jenkins/GitHub Actions]:::bigbox
+    B --> C[Infrastructure Provisioning: Terraform/Ansible]:::bigbox
+    C --> D[Cloud Platform: AWS EC2, VPC, S3]:::bigbox
+    C --> E[Azure Services: VMs, Blob Storage, AKS]:::bigbox
+    D --> F[Monitoring: CloudWatch, Log Insights]:::bigbox
     E --> F
-    F --> G[Security: IAM,GuardDuty,KMS]
-    G --> H[Operational Excellence:Cost Optimization,Uptime 99.9%]
+    F --> G[Security: IAM, GuardDuty, KMS]:::bigbox
+    G --> H[Operational Excellence: Cost Optimization, Uptime 99.9%]:::bigbox
 
     %% Assigning different colors to each box
     style A fill:#FF9999,stroke:#333,stroke-width:2px
@@ -88,6 +88,10 @@ flowchart TD
     style F fill:#99CCFF,stroke:#333,stroke-width:2px
     style G fill:#CC99FF,stroke:#333,stroke-width:2px
     style H fill:#FF99CC,stroke:#333,stroke-width:2px
+
+    %% Define a reusable class for bigger boxes
+    classDef bigbox width:250px,height:80px,font-size:14px;
+
 
 ```
 ### ✨ HOW TO USE THIS PORTFOLIO
