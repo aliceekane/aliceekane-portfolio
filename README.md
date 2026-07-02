@@ -69,16 +69,16 @@
 ```
 ### 🖇 Mermaid Diagram (Cloud Workflow)
 ```mermaid
-%%{init: {'flowchart': {'htmlLabels': true}} }%%
 flowchart TD
-    A["**Developer Commit**"] --> B["**CI/CD Pipeline:** Jenkins/GitHub Actions"]
-    B --> C["**Infrastructure Provisioning:** Terraform/Ansible"]
-    C --> D["**Cloud Platform:** AWS EC2, VPC, S3"]
-    C --> E["**Azure Services:** VMs, Blob Storage, AKS"]
-    D --> F["**Monitoring:** CloudWatch, Log Insights"]
+    A[Developer Commit] --> B[CI/CD Pipeline:<br/>Jenkins/GitHub Actions]
+    B --> C[Infrastructure Provisioning:<br/>Terraform/Ansible]
+    C --> D[Cloud Platform:<br/>AWS EC2, VPC, S3]
+    C --> E[Azure Services:<br/>VMs, Blob Storage, AKS]
+    D --> F[Monitoring:<br/>CloudWatch, Log Insights]
     E --> F
-    F --> G["**Security:** IAM, GuardDuty, KMS"]
-    G --> H["**Operational Excellence:** Cost Optimization, Uptime 99.9%"]
+    F --> G[Security:<br/>IAM, GuardDuty, KMS]
+    G --> H[Operational Excellence:<br/>Cost Optimization,<br/>Uptime 99.9%]
+
 
 
     %% Assigning different colors to each box
