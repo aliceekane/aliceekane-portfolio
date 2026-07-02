@@ -70,14 +70,24 @@
 ### 🖇 Mermaid Diagram (Cloud Workflow)
 ```mermaid
 flowchart TD
-    A[Developer Commit] --> B[CI/CD Pipeline:<br/>Jenkins/GitHub Actions]
-    B --> C[Infrastructure Provisioning:<br/>Terraform/Ansible]
-    C --> D[Cloud Platform:<br/>AWS EC2, VPC, S3]
-    C --> E[Azure Services:<br/>VMs, Blob Storage, AKS]
-    D --> F[Monitoring:<br/>CloudWatch, Log Insights]
-    E --> F
-    F --> G[Security:<br/>IAM, GuardDuty, KMS]
-    G --> H[Operational Excellence:<br/>Cost Optimization,<br/>Uptime 99.9%]
+    A[Developer Commit] --> B[CI/CD Pipeline: Jenkins]:::bigbox
+    B --> B2[CI/CD Pipeline: GitHub Actions]:::bigbox
+    B2 --> C[Infrastructure Provisioning: Terraform]:::bigbox
+    C --> C2[Infrastructure Provisioning: Ansible]:::bigbox
+    C2 --> D[Cloud Platform: AWS EC2]:::bigbox
+    D --> D2[Cloud Platform: VPC, S3]:::bigbox
+    D2 --> E[Azure Services: VMs]:::bigbox
+    E --> E2[Azure Services: Blob Storage, AKS]:::bigbox
+    E2 --> F[Monitoring: CloudWatch]:::bigbox
+    F --> F2[Monitoring: Log Insights]:::bigbox
+    F2 --> G[Security: IAM]:::bigbox
+    G --> G2[Security: GuardDuty, KMS]:::bigbox
+    G2 --> H[Operational Excellence: Cost Optimization]:::bigbox
+    H --> H2[Operational Excellence: Uptime 99.9%]:::bigbox
+
+    %% Define a reusable class for consistent box styling
+    classDef bigbox width:250px,height:80px,font-size:14px,stroke:#333,stroke-width:2px;
+
 
 
 
