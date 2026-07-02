@@ -71,13 +71,19 @@
 ```mermaid
 flowchart TD
     A[Developer Commit] --> B[CI/CD Pipeline: Jenkins/GitHub Actions]
-    B --> C[Infrastructure Provisioning:Terraform/Ansible]
-    C --> D[Cloud Platform:AWS EC2,VPC,S3]
-    C --> E[Azure Services: VMs,Blob Storage,AKS]
-    D --> F[Monitoring: CloudWatch,Log Insights]
+    B --> C[Infrastructure Provisioning:
+Terraform/Ansible]
+    C --> D[Cloud Platform:
+AWS EC2,VPC,S3]
+    C --> E[Azure Services: 
+VMs,Blob Storage,AKS]
+    D --> F[Monitoring: 
+CloudWatch,Log Insights]
     E --> F
-    F --> G[Security: IAM,GuardDuty,KMS]
-    G --> H[Operational Excellence:Cost Optimization,Uptime 99.9%]
+    F --> G[Security: 
+IAM,GuardDuty,KMS]
+    G --> H[Operational Excellence:
+Cost Optimization,Uptime 99.9%]
 
 
 
