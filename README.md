@@ -89,8 +89,8 @@ flowchart TD
     style G fill:#CC99FF,stroke:#333,stroke-width:2px
     style H fill:#FF99CC,stroke:#333,stroke-width:2px
 
-    %% Define a reusable class for bigger boxes
-    classDef bigbox width:250px,height:80px,font-size:14px;
+    %% Define a reusable class for extra-large boxes
+    classDef bigbox width:400px,height:120px,font-size:16px;
 
 
 ```
