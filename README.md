@@ -89,7 +89,8 @@ Log Insights]
     E --> F
     F --> G[Security: 
 IAM,
-GuardDuty,KMS]
+GuardDuty,
+KMS]
     G --> H[Operational 
     Excellence:
 Cost Optimization,
