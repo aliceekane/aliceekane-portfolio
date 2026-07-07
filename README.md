@@ -27,7 +27,8 @@
 
 📄 RESUME & CERTIFICATIONS
 
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat&logo=readthedocs)](https://github.com/aliceekane/aliceekane-portfolio/blob/main/Alice_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat&logo=readthedocs)](https://github.com/aliceekane/aliceekane-portfolio/blob/main/Alice__Resume.pdf)
+
 
 📜 Official AWS Certificates:
 - [AWS Certified Solutions Architect – Associate](https://github.com/aliceekane/aliceekane-portfolio/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
